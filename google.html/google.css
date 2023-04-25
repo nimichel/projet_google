@@ -1,0 +1,18 @@
+body{ font-family: 'Arimo' sans-serif;margin: O;padding: 0 }
+header{   display: flex; justify-content: space-between ; margin:10px 150px;color: cadetblue}
+.right{ display: flex ;}
+header a:hover{ color: black}
+.main{
+    
+display: flex;
+flex-direction: column; align-items: center;margin-top: 100px;}
+img{
+ width: 400px;
+ height: auto;
+
+}
+
+.form input{ margin-top:auto;  
+    padding:5px;
+    border-radius:50px;
+outline: none}
